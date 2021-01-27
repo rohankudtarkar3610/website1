@@ -1,0 +1,111 @@
+@font-face {
+    font-family: Raleway;
+    src: url(font/static/Raleway-SemiBold.ttf);
+  }
+
+#p1,#p3 {
+    color: white;
+}
+
+#p2 {
+    color: teal;
+    
+}
+
+#p {
+    color: white;
+    font-size: 50px;
+    font-family: Raleway;
+
+}
+#p4 {
+    color: rgba(185, 220, 231, 0.664);
+    font-size: 200%;
+    font-family: monospace;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+}
+.banner  {
+    text-align: center;
+    font-family: monospace;
+    letter-spacing: 1.5px;
+    word-spacing: 1px;
+}
+h1 {
+    color: yellow;
+}
+h3,p {
+    color: white;
+}
+p {
+    color: white;
+    letter-spacing: 0px;
+    word-spacing: normal;
+    
+} 
+.grid_system div[class^="col-md-6"]  {
+    border: 1px solid rgb(236, 93, 10);
+    /* background-color: #fa2c2c; */
+    text-align: left;
+    padding: 90px;
+
+}
+.container-fluid {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.jumbotron {
+    background-color: #fffefe;
+}
+
+.nav-link {
+    color: white;
+}
+
+#navbarid {
+    background-color: #2f363e;
+}
+.b {
+    border: 2px solid #ffffff;
+}
+#inputbox {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.navbar-toggler-icon {
+    background: rgb(151, 147, 147);
+}
+#btn3 {
+    border-color: white;
+    color: white;
+    border-radius: 2px;
+    width: 50%;
+}
+#btn5 {
+    border-color: white;
+    color: white;
+    border-radius: 2px;
+}
+#btn4 {
+    border-color: yellow;
+    
+}
+#grid-cell-2 {
+    background-color: #eb4c4c;
+
+}
+#grid-cell-3 {
+    background-color: #17ca9d;
+}
+#circle {
+    border-radius: 50px;
+}
+
+/* --------------------------------------carousel------------------------------------------------ */
+.carousel-inner {
+    width: 100%;
+    height: 100%;
+  }
+/* --------------------------------------carousel------------------------------------------------ */
+
